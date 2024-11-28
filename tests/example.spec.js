@@ -1,2 +1,1 @@
-// @ts-check
-const { test, expect } = require('@playwright/test');
+//This is test
